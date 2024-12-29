@@ -1,5 +1,5 @@
 # Hi there, I'm Valerio Choc👋
-I'm a passionate student of Computer Science and Systems Engineering with a deep interest in technology and innovation. Always eager to learn and improve, I am currently focused on expanding my skills in Data Science and Networking. I thrive on challenges and enjoy tackling problems that involve both creativity and technical expertise. Feel free to explore my work and connect!
+I'm a passionate student of Computer Science and Systems Engineering with a deep interest in technology and innovation. Always eager to learn and improve, I am currently focused on expanding my skills in Data Science and Networking. I thrive on challenges and enjoy tackling problems that involve both creativity and technical expertise. 
 
 ## About Me
 
